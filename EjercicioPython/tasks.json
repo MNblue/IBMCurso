@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Estudiar Python",
+        "complete": true
+    },
+    {
+        "description": "Dar de comer al gato",
+        "complete": true
+    },
+    {
+        "description": "Comprar pizza",
+        "complete": true
+    },
+    {
+        "description": "Comprar regalo para Aitor",
+        "complete": false
+    },
+    {
+        "description": "Regar las plantas",
+        "complete": true
+    },
+    {
+        "description": "Poner lavadora",
+        "complete": false
+    }
+]
